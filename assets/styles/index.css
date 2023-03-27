@@ -594,6 +594,10 @@ body{
         margin-top: calc(60px + (170 - 60)*((100vw - 320px)/(768 - 320)));
     }
 
+    .text-hide-768{
+        display: none;
+    }
+
     .content-aboutMe {
         flex-direction: column;
         row-gap: 20px;
